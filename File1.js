@@ -1,3 +1,3 @@
 function test() {
-    testasdfsd-my
+    testasdfsd-my1
 }
