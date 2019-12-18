@@ -5,4 +5,4 @@ function test() {
     tesstabacdasfsdf
 }
 
-console.log('1');
+console.log('branch2');
