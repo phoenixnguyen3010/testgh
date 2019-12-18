@@ -4,3 +4,5 @@ function test() {
     testasdfsd-my1
     tesstabacdasfsdf
 }
+
+console.log('1');
